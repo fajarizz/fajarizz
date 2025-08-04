@@ -4,16 +4,16 @@
 
 ### **About Me**
 
-I'm **[Your Name]**, a **[Your Job Title/Specialization]** passionate about **[Your Field of Interest]**. Currently, I'm focusing on **[The Project or Technology You're Currently Working On]**.
+I'm **Rafa Fajari**, a **Programmer** passionate about **Web Development**. Currently, I'm focusing on **Next.JS**.
 
 ---
 
 ### **Skills & Technologies**
 
-* **Programming Languages:** [Example: Python, JavaScript, Java, C++]
-* **Frameworks:** [Example: React.js, Node.js, Spring Boot, TensorFlow]
-* **Databases:** [Example: MySQL, PostgreSQL, MongoDB]
-* **Tools & Platforms:** [Example: Docker, Kubernetes, AWS, Git, Figma]
+* **Programming Languages:** Javascript, Python, Go
+* **Frameworks:** React.js, Next.js, Angular, Vue.js
+* **Databases:** Postgre, MySqL, MongoDB
+* **Tools & Platforms:** Docker, Git, Figma
 
 ---
 
