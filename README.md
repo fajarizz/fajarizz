@@ -34,4 +34,4 @@ I'm **Rafa Fajari**, a **Programmer** passionate about **Web Development**. Curr
 
 ### **GitHub Stats**
 
-![Your GitHub stats image](https://github-readme-stats.vercel.app/api?username=[your_username]&show_icons=true&theme=radical)
+![Your GitHub stats image](https://github-readme-stats.vercel.app/api?username=fajarizz&show_icons=true&theme=radical)
